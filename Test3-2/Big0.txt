@@ -1,0 +1,5 @@
+Big O notation:
+
+For the sortDiceRolls the big O takes O(n) time complexity. Since in the method sortDiceRolls() the i value moved from 0 to 100.
+
+So it takes 100 steps to sort the array of size 100. So the time complexity would be O(n)

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Test3
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=diceRolls
+comment2.target=void\ sortDiceRolls(int[])
+comment3.params=diceRolls
+comment3.target=int[]\ countFaceOccurence(int[])
+comment4.params=diceRolls
+comment4.target=void\ printDiceRolls(int[])
+comment5.params=diceRolls
+comment5.target=void\ setDiceRolls(int[])
+numComments=6

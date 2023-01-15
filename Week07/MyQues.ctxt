@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyQues
+comment0.text=\r\n\ From\ useQueue,\ print\ out\r\n\ [Strawberries,\ Whipped\ Cream,\ Blueberries,\ Whipped\ Cream,\ Strawberries,\ Whipped\ Crean,\ Powdered\ Choclolate]\r\n\ \r\n\ From\ useDeque,\ print\ out\r\n\ [Pineapple\ Cake,\ Whipped\ Cream,\ Strawberries,\ Whipped\ Cream,\ Powdered\ Choclolate]\r\n\r\n\ From\ usePque,\ print\ out\r\n\ [Bananas,\ Vanilla\ Wafers,\ Whipped\ Cream]\r\n\ \r\n\ Do\ not\ remove\ or\ modify\ the\ code\ below.\r\n\ You\ can\ add\ code\ where\ indicated.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ useQueue()
+comment3.params=
+comment3.target=void\ useDeque()
+comment4.params=
+comment4.target=void\ usePque()
+numComments=5
