@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QuickSortNonRecursive
+comment1.params=list
+comment1.target=void\ quickSort(int[])
+comment2.params=list\ first\ last
+comment2.target=void\ quickSort(int[],\ int,\ int)
+comment3.params=list\ first\ last
+comment3.target=int\ partition(int[],\ int,\ int)
+numComments=4

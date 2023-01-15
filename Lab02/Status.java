@@ -1,0 +1,3 @@
+public enum Status{
+    REGISTERED, ENROLLED, INACTIVE, ARCHIVED;
+}

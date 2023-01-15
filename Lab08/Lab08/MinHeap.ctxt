@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MinHeap
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MinHeap\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MinHeap()
+comment2.params=objects
+comment2.target=MinHeap(java.lang.Comparable[])
+comment3.params=newObject
+comment3.target=void\ add(java.lang.Comparable)
+comment4.params=i
+comment4.target=java.lang.Comparable\ nodeAt(int)
+comment5.params=
+comment5.target=java.lang.Comparable\ remove()
+comment6.params=
+comment6.target=int\ getSize()
+numComments=7

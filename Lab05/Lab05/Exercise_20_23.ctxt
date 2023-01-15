@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exercise_20_23
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=expression
+comment2.target=int\ evaluateExpression(java.lang.String)
+comment2.text=Evaluate\ an\ expression
+comment3.params=operandStack\ operatorStack
+comment3.target=void\ processAnOperator(java.util.Stack,\ java.util.Stack)
+comment3.text=\ Process\ one\ operator\:\ Take\ an\ operator\ from\ operatorStack\ and\ \r\napply\ it\ on\ the\ operands\ in\ the\ operandStack
+comment4.params=s
+comment4.target=java.lang.String\ insertBlanks(java.lang.String)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Exercise_21_09
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Main\ method
+comment2.params=
+comment2.target=java.util.Map\ getData()
+comment2.text=Method\ getData\ stores\ the\ 50\ states\ and\ their\ capitals\ in\ a\ map
+numComments=3
